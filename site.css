@@ -1,0 +1,58 @@
+body{
+	font-family: arial;
+    color:black;
+    background-image:url("C:/test/photo/fond_web.jpg");	
+}  
+h2{
+	font-size:3.3em;
+}
+header h1{
+	display:inline;
+	font-size:5.5em;
+	
+	}
+header nav{
+	float:right;
+}
+header nav ul li{
+	font-size:2em;
+	margin-right:15px;
+    display:inline;
+}
+section div h2{
+	font-size:6em;
+	text-align: center;
+	font-style:oblique;
+	color:black;
+	margin-top:2em;
+	background-color:gray;
+}
+section div p {
+	float: left;
+    margin-left:5em;
+	margin-top:1em;
+	font-size:1.5em;
+	background-color:red;	
+}
+section p {
+	float: right;
+	margin-right:2em;
+	font-size:1.5em;
+	margin-top:1em;	
+	background-color:red;	
+}
+
+footer{
+	margin-top:50em;
+	text-transform:uppercase;
+	font-size:1.3em;
+	background-color:green;	
+}
+footer h2{
+	text-decoration:underline;	
+}
+footer p a{
+float: right;
+background-color:green;	
+
+}
